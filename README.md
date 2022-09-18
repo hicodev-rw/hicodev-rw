@@ -1,7 +1,7 @@
 ## Hi there ,welcome to my github profile👏
 
 ![Hirwacl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirwacl98&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzkarim250&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacl98&layout=compact)
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
