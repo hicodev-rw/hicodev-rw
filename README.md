@@ -15,10 +15,10 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 #### Top Repositories
 
 
-<a href="https://github.com/hirwacl98/node.js">
+<a href="https://github.com/hicode250/node.js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=node.js&theme=blue-green" />
 </a>
-<a href="https://hirwacl98.github.io/portofolio/">
+<a href="https://hicode250.github.io/portofolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=portofolio&theme=blue-green" />
 </a>
 
