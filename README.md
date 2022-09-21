@@ -9,17 +9,17 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 - ❤️ I love writing JavaScript, and building fun experiments
 
-![Hirwacl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirwacl98&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacl98&theme=blue-green&layout=compact)
+![Hirwacl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hicode250&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode250&theme=blue-green&layout=compact)
 
 #### Top Repositories
 
 
 <a href="https://github.com/hirwacl98/node.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwacl98&repo=node.js&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=node.js&theme=blue-green" />
 </a>
 <a href="https://hirwacl98.github.io/portofolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwacl98&repo=portofolio&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=portofolio&theme=blue-green" />
 </a>
 
 <br />
