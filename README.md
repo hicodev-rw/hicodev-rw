@@ -9,7 +9,7 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 - ❤️ I love writing JavaScript, and building fun experiments
 
-![Hirwacl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hicode250&show_icons=true&theme=blue-green)
+![Hicode250's public GitHub stats](https://github-readme-stats.vercel.app/api?username=hicode250&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode250&theme=blue-green&layout=compact)
 
 #### Top Repositories
