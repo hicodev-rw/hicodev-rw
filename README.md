@@ -15,8 +15,8 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 #### Top Repositories
 
 
-<a href="https://github.com/hicode250/task-manager-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=task-manager-api&theme=blue-green" />
+<a href="https://github.com/hicode250/userAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=userAPI&theme=blue-green" />
 </a>
 <a href="https://hicode250.github.io/portofolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=portofolio&theme=blue-green" />
