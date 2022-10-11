@@ -9,17 +9,17 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 - ❤️ I love writing JavaScript, and building fun experiments
 
-![Hicode250's public GitHub stats](https://github-readme-stats.vercel.app/api?username=hicode250&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode250&theme=blue-green&layout=compact)
+![Hicode250's public GitHub stats](https://github-readme-stats.vercel.app/api?username=hicode.io&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode.io&theme=blue-green&layout=compact)
 
 #### Top Repositories
 
 
-<a href="https://github.com/hicode250/userAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=userAPI&theme=blue-green" />
+<a href="https://github.com/hicode.io/userAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode.io&repo=userAPI&theme=blue-green" />
 </a>
 <a href="https://hicode250.github.io/portofolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode250&repo=portofolio&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicode.io&repo=portofolio&theme=blue-green" />
 </a>
 
 <br />
