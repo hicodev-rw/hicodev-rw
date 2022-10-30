@@ -12,7 +12,6 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 ![hicode-byte's public GitHub stats](https://github-readme-stats.vercel.app/api?username=hicode-byte&show_icons=true&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicode-byte&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode-byte&theme=blue-green&layout=compact)
-![trophy](https://github-profile-trophy.vercel.app/?username=hicode-byte&theme=blue-green)
 
 <br />
 <br />
@@ -24,7 +23,6 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
