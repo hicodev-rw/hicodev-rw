@@ -1,4 +1,4 @@
-## Hello, I'm HIRWA.
+## Hello, I'm Jean Claude.
 <br />
 
 I'm a self-taught passionate FullStack developer from Rwanda RW
