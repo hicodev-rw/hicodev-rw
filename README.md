@@ -12,10 +12,6 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 ![hicode-byte's public GitHub stats]
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicode-byte&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=hicode-byte&theme=blue-green&layout=compact)
-![Github stats](https://github-readme-stats.vercel.app/api?user=hicode-byte&theme=highcontrast&show_icons=true&count_private=true)
-
-
 
 <br />
 <br />
