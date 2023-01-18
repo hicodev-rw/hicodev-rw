@@ -12,7 +12,7 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 ![hicode-byte's public GitHub stats]<br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicode-byte&show_icons=true&theme=blue-green)
-
+![](https://komarev.com/ghpvc/?username=hicode-byte)
 <br />
 <br />
 
