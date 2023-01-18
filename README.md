@@ -10,8 +10,10 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 - ❤️ I love writing JavaScript, and building fun experiments
 
-![hicode-byte's public GitHub stats]<br><br>
+## Public GitHub statistics<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicode-byte&show_icons=true&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode-byte&layout=compact&theme=blue-green)](https://github.com/hicode-byte/github-readme-stats)
+<br/>
 ![](https://komarev.com/ghpvc/?username=hicode-byte)
 <br />
 <br />
