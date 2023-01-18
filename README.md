@@ -14,6 +14,8 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicode-byte&show_icons=true&theme=blue-green) <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode-byte&layout=compact&theme=blue-green)](https://github.com/hicode-byte/github-readme-stats)
 <br/><br/>
+
+## 
 ![](https://komarev.com/ghpvc/?username=hicode-byte)
 <br />
 <br />
