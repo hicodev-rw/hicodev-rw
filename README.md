@@ -9,12 +9,12 @@ I'm a self-taught passionate FullStack developer
 - ❤️ I love writing JavaScript, and building fun experiments
 
 ## Public GitHub statistics<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicode-byte&show_icons=true&theme=blue-green) <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicode-byte&layout=compact&theme=blue-green)](https://github.com/hicode-byte/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicodev-rw&show_icons=true&theme=blue-green) <br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodev-rw&layout=compact&theme=blue-green)](https://github.com/hicodev-rw/github-readme-stats)
 <br/><br/>
 
 ## 
-![](https://komarev.com/ghpvc/?username=hicode-byte)
+![](https://komarev.com/ghpvc/?username=hicodev-rw)
 <br />
 <br />
 
