@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/ef27af5b-4eed-4e87-8eb4-dcd287cfdfd3.svg)](https://wakatime.com/@ef27af5b-4eed-4e87-8eb4-dcd287cfdfd3)
+[![twitter](https://img.shields.io/twitter/follow/hicodev?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/@hicodev)
+[![github](https://img.shields.io/github/followers/hicodev-rw?logo=github&style=plastic)](https://github.com/hicodev-rw?tab=followers)
 
 
 I'm a self-taught passionate FullStack developer
